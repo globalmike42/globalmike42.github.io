@@ -1,3 +1,11 @@
 <?php
+/**
+ * Created by PhpStorm.
+ * User: ilagrigorev
+ * Date: 19.07.2018
+ * Time: 14:35
+ */
 
-echo mail("gril69@mail.ru", "Заявка с сайта", $_POST['text'] ,"From: fabrica-tver@hard-worker-ilya.ru \r\n");
+echo '<pre>';
+echo $_POST['text'];
+echo '</pre>';
