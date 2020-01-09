@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
 Sitemap: https://tver-factory.ru/sitemap.xml
 Host: https://tver-factory.ru
